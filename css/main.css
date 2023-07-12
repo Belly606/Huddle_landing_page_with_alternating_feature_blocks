@@ -230,8 +230,6 @@ footer .container {
 }
 footer .logo {
 	margin-bottom: 2em;
-	filter: invert(88%) sepia(21%) saturate(935%) hue-rotate(123deg) brightness(85%) contrast(97%);
-	-webkit-filter: invert(88%) sepia(21%) saturate(935%) hue-rotate(123deg) brightness(85%) contrast(97%);
 }
 footer .info {
 	display: grid;
